@@ -1,0 +1,15 @@
+- git init
+- create initial commit
+- create GitHub repo
+- push main to GitHub
+- create develop branch
+- push develop branch to GitHub
+    - Add extra route to our express app
+- Create feature branch
+- Write code
+- Commit code
+- checkout develop
+- Pull develop
+- merge develop into feature branch
+- push feature branch
+- create PR
