@@ -1,0 +1,7 @@
+- git init
+- create initial commit
+- create GitHub repo
+- push main to GitHub
+- create develop branch
+- push develop branch to GitHub
+    - Add extra route to our express app
